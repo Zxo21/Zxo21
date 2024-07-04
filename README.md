@@ -1,6 +1,6 @@
 
 
-### Olá, eu sou o Juan!👋
+### Hello, my name is Juan!👋
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ju_4n)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/686961282670264351)
@@ -15,5 +15,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, e um entusiasta em desenvolvimento de jogos.
-Acredito que programar é uma arte, e jogos fazem parte da minha vida desde criança, então nada melhor que fazer as pessoas se divertirem com algo da mesma forma que eu me divirto.
+I am 20 years old and have a degree in Systems Analysis and Development. I am also an enthusiast in game development. I believe that programming is an art, and games have been a part of my life since childhood, so there is nothing better than making people have fun with something the same way I do.
