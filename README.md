@@ -16,4 +16,4 @@
 </div><br/>
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC, e um entusiasta em desenvolvimento de jogos.
-Acredito que programar é uma arte, e jogos fazem parte da minha vida desde criança, então nada melhor que fazer as pessoas se divertirem com algo da mesma forma que eu me diverto.
+Acredito que programar é uma arte, e jogos fazem parte da minha vida desde criança, então nada melhor que fazer as pessoas se divertirem com algo da mesma forma que eu me divirto.
