@@ -15,4 +15,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
 
-I am 20 years old and have a degree in Systems Analysis and Development. I am also an enthusiast in game development. I believe that programming is an art, and games have been a part of my life since childhood, so there is nothing better than making people have fun with something the same way I do.
+I am 20 years old and have a degree in Systems Analysis and Development, and also an enthusiast in game development. I believe that programming is an art, and games have been a part of my life since childhood, so there is nothing better than making people have fun with something the same way I do.
